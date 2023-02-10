@@ -49,3 +49,8 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 ## For Insatll Typescript
 
 npx create-react-app my-app --template typescript
+
+
+## For Insatll scss
+
+npm install scss (using 7-1 SASS Pattern means 7 folder 1 file )
